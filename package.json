@@ -1,0 +1,40 @@
+{
+  "name": "cordova-plugin-coffeescript",
+  "version": "1.0.0",
+  "description": "Automatically compiles your CoffeeScript every time you build your Cordova application. ",
+    "cordova": {
+    "id": "cordova-plugin-coffeescript",
+    "platforms": [
+      "firefoxos",
+      "tizen",
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "blackberry10",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "browser",
+      "osx"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimaore/cordova-plugin-coffeescript.git"
+  },
+  "author": "Dave Lane (NotDaveLane)",
+  "contributors": {
+    "Volker Braun <vbraun.name@gmail.com>",
+    "Stéphane Alnet <stephane@shimaore.net> (https://stephane.shimaore.net/)"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shimaore/cordova-plugin-coffeescript/issues"
+  },
+  "homepage": "https://github.com/shimaore/cordova-plugin-coffeescript#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.2"
+  }
+}
