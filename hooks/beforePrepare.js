@@ -9,4 +9,4 @@ if( !fs.existsSync(coffee_path)) {
     fs.mkdirSync(coffee_path)
 }
 
-execSync("coffee --compile --output www/js/ " + coffee_path)
+execSync("coffee --compile --inline-map --output www/js/ " + coffee_path)
