@@ -25,10 +25,10 @@
     "url": "git+https://github.com/shimaore/cordova-plugin-coffeescript.git"
   },
   "author": "Dave Lane (NotDaveLane)",
-  "contributors": {
+  "contributors": [
     "Volker Braun <vbraun.name@gmail.com>",
     "Stéphane Alnet <stephane@shimaore.net> (https://stephane.shimaore.net/)"
-  },
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shimaore/cordova-plugin-coffeescript/issues"
